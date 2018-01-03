@@ -22,5 +22,5 @@ setup Guide:
    - 
 2. eslint :
    - eslint --init
-   - yarn add eslint-plugin-jest
+   - yarn add eslint-plugin-jest --dev
 ---
