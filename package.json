@@ -1,16 +1,16 @@
 {
-  "name": "bloggangclone",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/noney1412/BlogGang-Clone.git",
-  "author": "noney1412 <nonpanpila@gmail.com>",
-  "license": "MIT",
-  "private": true,
-  "scripts": {
-    "dev": ""
-  },
-  "devDependencies": {
-    "webpack": "^3.10.0", 
-    "webpack-dev-server": "^2.9.7"
-  }
+	"name": "bloggangclone",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/noney1412/BlogGang-Clone.git",
+	"author": "noney1412 <nonpanpila@gmail.com>",
+	"license": "MIT",
+	"private": true,
+	"scripts": {
+		"dev": "webpack-dev-server"
+	},
+	"devDependencies": {
+		"webpack": "^3.10.0",
+		"webpack-dev-server": "^2.9.7"
+	}
 }
