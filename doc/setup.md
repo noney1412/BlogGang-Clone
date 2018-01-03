@@ -21,5 +21,6 @@ setup Guide:
    - yarn add webpack-dev-server --dev 
    - 
 2. eslint :
-   - eslint
+   - eslint --init
+   - yarn add eslint-plugin-jest
 ---
