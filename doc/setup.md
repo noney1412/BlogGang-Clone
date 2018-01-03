@@ -16,8 +16,10 @@ folder:
 
 --
 
-setup Guide:
+setup Guide: 
 1. webpack :
    - yarn add webpack-dev-server --dev 
-
+   - 
+2. eslint :
+   - eslint
 ---
