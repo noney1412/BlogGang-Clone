@@ -23,4 +23,7 @@ setup Guide:
 2. eslint :
    - eslint --init
    - yarn add eslint-plugin-jest --dev
+
+3. dependencies :
+  - react, react-dom
 ---
