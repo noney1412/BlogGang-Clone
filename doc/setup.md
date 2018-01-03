@@ -6,4 +6,18 @@ powered by React({preact})
 
 Description : BlogGang-Clone By React
 
---- 
+folder:
+: src
+  -- components
+    - _.test.js
+    - styled.jsx
+    - index.jsx
+:
+
+--
+
+setup Guide:
+1. webpack :
+   - yarn add webpack-dev-server --dev 
+
+---
